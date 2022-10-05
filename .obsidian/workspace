@@ -7,8 +7,12 @@
         "id": "4298ef869a41eb3e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "projects/202210051123.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projects/202210051123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +101,15 @@
   },
   "active": "4298ef869a41eb3e",
   "lastOpenFiles": [
+    "projects/202210051124.md",
+    "projects/202210051123.md",
+    "Templates/Fleeting note template.md",
+    "Templates/Hub note template.md",
+    "Templates/Literature note template.md",
+    "Templates/Note Template.md",
+    "Templates/WB note template.md",
     "PermanentNotes/202110250507.md",
     "LiteratureNotes/Ahrens 2017.md",
-    "PermanentNotes/202111131540.md",
-    "0-Meta/Todos.md",
-    "FleetingNotes/Silence.md",
-    "0-Meta/Index.md",
-    "PermanentNotes/202209290939.md",
-    "PermanentNotes/202111240730.md",
-    "0-Meta/Recent notes.md",
-    "LiteratureNotes/Parkes Shushogi.md"
+    "PermanentNotes/202111131540.md"
   ]
 }
