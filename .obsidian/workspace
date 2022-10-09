@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4298ef869a41eb3e",
+        "id": "9b6b207b51121243",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projects/202210051123.md",
+            "file": "0-Meta/Hubs.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/202210051123.md",
+                "file": "0-Meta/Hubs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4298ef869a41eb3e",
+  "active": "9b6b207b51121243",
   "lastOpenFiles": [
+    "0-Meta/Orphans - Permanent Notes.md",
+    "projects/202210070011.md",
+    "0-Meta/Hubs.md",
+    "projects/202210070007.md",
+    "projects/202210062359.md",
+    "projects/202210062327.md",
+    "projects/202210062350.md",
     "projects/202210051124.md",
     "projects/202210051123.md",
-    "Templates/Fleeting note template.md",
-    "Templates/Hub note template.md",
-    "Templates/Literature note template.md",
-    "Templates/Note Template.md",
-    "Templates/WB note template.md",
-    "PermanentNotes/202110250507.md",
-    "LiteratureNotes/Ahrens 2017.md",
-    "PermanentNotes/202111131540.md"
+    "projects/202210070026.md"
   ]
 }
