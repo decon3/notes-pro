@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0-Meta/Hubs.md",
+            "file": "projects/202210070026.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Meta/Hubs.md",
+                "file": "projects/202210070026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +101,9 @@
   },
   "active": "9b6b207b51121243",
   "lastOpenFiles": [
+    "0-Meta/Hubs.md",
     "0-Meta/Orphans - Permanent Notes.md",
     "projects/202210070011.md",
-    "0-Meta/Hubs.md",
     "projects/202210070007.md",
     "projects/202210062359.md",
     "projects/202210062327.md",
