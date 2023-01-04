@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f4508b31c916607e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "projects/202210131745.md",
-            "mode": "source",
-            "source": false
+        "id": "639d679c99c0fcea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4508b31c916607e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/202210131745.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -46,7 +52,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ],
