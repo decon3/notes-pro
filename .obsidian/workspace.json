@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/202210131745.md",
+                "file": "projects/202301201947.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253,
-    "collapsed": true
+    "width": 253
   },
   "right": {
     "id": "2c7b6f04e806fbcc",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/202210131745.md",
+                "file": "projects/202301201947.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +107,29 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
   "active": "f4508b31c916607e",
   "lastOpenFiles": [
-    "projects/202210062359.md",
-    "projects/202210062327.md",
-    "projects/202210070007.md",
-    "0-Meta/Hubs.md",
-    "0-Meta/Index.md",
-    "0-Meta/Without tags - Fleeting Notes.md",
-    "0-Meta/Orphans - Fleeting Notes.md",
     "projects/202210051123.md",
-    "0-Meta/Recent notes.md",
-    "0-Meta/Orphans - Permanent Notes.md"
+    "projects/202301141709.md",
+    "0-Meta/Hubs.md",
+    "projects/202210062359.md",
+    "projects/202210070007.md",
+    "projects/202210062327.md",
+    "projects/202210062350.md",
+    "projects/202210051124.md",
+    "projects/202210131745.md",
+    "0-Meta/Index.md"
   ]
 }
